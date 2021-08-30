@@ -17,3 +17,9 @@ The conversion between two currencies (input_curr and output_curr) each differen
 
 The function firstly checks the internet connection. If the result is True, the real time conversion rates are used and the 
 stored old rates are updated , otherwise the old rate is used.
+
+
+## Required packages
+- requests
+- json
+- socket
