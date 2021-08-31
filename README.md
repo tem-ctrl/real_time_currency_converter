@@ -1,6 +1,6 @@
 # real time currency converter
-![currency](https://user-images.githubusercontent.com/69091817/131383366-691fb343-46ad-4adf-803d-d49eaf1fcc7e.png)
-
+<!--- ![currency](https://user-images.githubusercontent.com/69091817/131383366-691fb343-46ad-4adf-803d-d49eaf1fcc7e.png) --->
+<img src = "https://user-images.githubusercontent.com/69091817/131383366-691fb343-46ad-4adf-803d-d49eaf1fcc7e.png" alt="Currencies" /> 
 In this project, we create a function that converts a given amount of a source currency into its equivalent in a target currency.
 The function uses the **US Dollar (USD)** as base currency, that is the exchange rates are given with respect to USD. 
 
